@@ -1,4 +1,9 @@
-# Website-6
+# Website-6 practice project
+
+## Live Demo
+
+You can view the live deployment of this project here:
+[Live Project](https://website-6-six.vercel.app/)
 
 This is my Website-6 project.
 
